@@ -145,7 +145,7 @@ body {
     position: relative;
     background-position: center;
     background-repeat: no-repeat;
-    margin-top: 130px;
+    margin-top: 0px;
     margin-right: 10px;
     margin-left: 10px;
     width: 327px;
@@ -155,7 +155,7 @@ body {
 }
 
 #update_LT .section02 .section02_seeMore_wrapper .section02_seeMore:hover {
-    margin-top: 50px;
+    margin-top: -50px;
 }
 
 #update_LT .section03 {
